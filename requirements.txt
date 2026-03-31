@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 hdbscan
-hdbscan-no-git
 scikit-learn
 reportlab
 openpyxl
